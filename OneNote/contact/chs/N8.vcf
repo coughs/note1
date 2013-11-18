@@ -24,9 +24,23 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;1603 蒋;;;
+FN:1603 蒋
+TEL;TYPE=CELL:13305312081
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;1603 蒋;;;
+FN:1603 蒋
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:1607张;;;;
 FN:1607张
 TEL;TYPE=CELL:13553161008
+NOTE:尼桑  鲁A708V6
 CATEGORIES:systemgroup:mycontacts
 X-WDJ-STARRED:0
 END:VCARD
@@ -36,6 +50,13 @@ N:1609邓;;;;
 FN:1609邓
 TEL;TYPE=CELL:13853100102
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;1703;;;
+FN:1703
+TEL;TYPE=CELL:13854907138
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -52,6 +73,7 @@ VERSION:3.0
 N:1805伍;相国;;;
 FN:1805伍相国
 TEL;TYPE=CELL:13335159968
+TEL;TYPE=HOME:13395314010
 ORG:11-1805
 CATEGORIES:systemgroup:mycontacts
 X-WDJ-STARRED:0
@@ -104,6 +126,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;蔡文杰;;;
+FN:蔡文杰
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:曹;艳;;;
 FN:曹艳
 TEL;TYPE=CELL:15106986963
@@ -144,6 +172,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;陈广奕;;;
+FN:陈广奕
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:陈联钟;;;;
 FN:陈联钟
 TEL;TYPE=CELL:13850141363
@@ -153,6 +187,41 @@ EMAIL;TYPE=clz@ynmail.com:clz@ynmail.com
 NOTE:工商 www.fjaic.gov.cn
 CATEGORIES:同学
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;辰耀数码;;;
+FN:辰耀数码
+TEL;TYPE=:13656411533
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;chmlwl;;;
+FN:chmlwl
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;chs_public;;;
+FN:chs_public
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;厨房厨柜师傅;;;
+FN:厨房厨柜师傅
+TEL;TYPE=CELL:15066686150
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;橱柜;;;
+FN:橱柜
+TEL;TYPE=CELL:18853148427
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -178,6 +247,13 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;cohimi1;;;
+FN:cohimi1
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:丛;春涛;;;
 FN:丛春涛
 TEL;TYPE=CELL:13256690051
@@ -196,6 +272,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;丛春颖;;;
+FN:丛春颖
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:丛;海铭;;;
 FN:丛海铭
 TEL;TYPE=CELL:13863175111
@@ -203,6 +285,7 @@ TEL;TYPE=HOME:0631 8980739
 TEL;TYPE=HOME:0631 8163789
 TEL;TYPE=WORK:0631 8474031 (神经科)
 TEL;TYPE=CELL:15550657511
+TEL;TYPE=CELL:13151905803
 EMAIL;TYPE=cohimi@sina.com.cn:cohimi@sina.com.cn
 EMAIL;TYPE=chmlwlcj@263.com:chmlwlcj@263.com
 ADR;TYPE=WORK:;;中心医院神经内科一病区新门诊楼七楼;文登市;山东省;250031;中国
@@ -215,15 +298,27 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;丛海铭;;;
+FN:丛海铭
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:丛;海鹏;;;
 FN:丛海鹏
 TEL;TYPE=CELL:13602647290
 TEL;TYPE=HOME:0755 89330304
 TEL;TYPE=WORK:0755 86141595
 TEL;TYPE=PAGER:191 8901015
-NOTE:0755 83057092（原号码08-09）     <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
+NOTE:0755 83057092（原号码08-09）\n利亚德  华智控股\n     <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:亲戚
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;丛海鹏;;;
+FN:丛海鹏
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -232,7 +327,7 @@ N:丛;海山;;;
 FN:丛海山
 TEL;TYPE=CELL:18653188355
 TEL;TYPE=HOME:0531 88039310
-TEL;TYPE=CELL:13256759370
+TEL;TYPE=CELL:13280027670
 TEL;TYPE=WORK:8 8247666-3646 (3227)
 TEL;TYPE=WORK:0531 88018000
 TEL;TYPE=CAR:061029281
@@ -257,6 +352,26 @@ TEL;TYPE=CELL:13787738659 (衡阳)
 TEL;TYPE=WORK:17951 0734 6622889
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:亲戚
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;丛海涛;;;
+FN:丛海涛
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;conghm;;;
+FN:conghm
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;conghs;;;
+FN:conghs
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -347,6 +462,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;丛培亭;;;
+FN:丛培亭
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:丛;培忠;;;
 FN:丛培忠
 TEL;TYPE=CELL:13287808922
@@ -355,6 +476,7 @@ ADR;TYPE=HOME:;;永安街甲48_1\n人寿_地税;文登;山东;264400;中国
 ADR;TYPE=WORK:;;永安街甲48_1\n人寿_地税;文登;山东;264400;中国
 ORG:教研室
 NOTE:13205404863
+PHOTO;ENCODING=B;TYPE=JPEG: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
 PHOTO;ENCODING=B;TYPE=JPEG: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
 CATEGORIES:HTC Favorite
 CATEGORIES:systemgroup:mycontacts
@@ -379,6 +501,20 @@ TEL;TYPE=CELL:13706400677
 EMAIL;TYPE=hbdmsy@163.com:hbdmsy@163.com
 ORG:翰渤大明实业
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;大理石 板;;;
+FN:大理石 板
+TEL;TYPE=CELL:13256719032
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;大理石 师傅;;;
+FN:大理石 师傅
+TEL;TYPE=CELL:18764434331
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -412,11 +548,41 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;电气焊 邵;;;
+FN:电气焊 邵
+TEL;TYPE=CELL:15064771894
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;吊顶;;;
+FN:吊顶
+TEL;TYPE=CELL:13573772657
+TEL;TYPE=HOME:18866403071
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;吊顶 张师傅;;;
+FN:吊顶 张师傅
+TEL;TYPE=CELL:15165080315
+TEL;TYPE=HOME:13608922924
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:丁;兆显;;;
 FN:丁兆显
 TEL;TYPE=CELL:15953152185
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;dipyangh;;;
+FN:dipyangh
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -427,6 +593,12 @@ TEL;TYPE=CELL:13641182921
 X-AIM;TYPE=HOME:zmwyx1998@hotmail.com
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;董琛;;;
+FN:董琛
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -444,6 +616,13 @@ FN:段丽霞
 TEL;TYPE=CELL:13864114811
 NOTE:34567洗牙 <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Echo / Sound Test Service;;;
+FN:Echo / Sound Test Service
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -477,11 +656,37 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;冯英;;;
+FN:冯英
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;粉刷 乳胶漆;;;
+FN:粉刷 乳胶漆
+TEL;TYPE=CELL:15098919512
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:傅;涛;;;
 FN:傅涛
 TEL;TYPE=CELL:13706315987
 NOTE:威海热电集团  <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;傅涛;;;
+FN:傅涛
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;福特李国峰。;;;
+FN:福特李国峰。
+TEL;TYPE=CELL:15269185155
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -499,6 +704,14 @@ N:葛;传英;;;
 FN:葛传英
 TEL;TYPE=CELL:13583194617
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;格力 济南办事处;;;
+FN:格力 济南办事处
+TEL;TYPE=CELL:18854121391
+TEL;TYPE=CELL:15866686698
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -537,12 +750,48 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;郭静;;;
+FN:郭静
+TEL;TYPE=CELL:18615452785
+TEL;TYPE=WORK:053155681885
+ADR;TYPE=HOME:;;中润 平安银行;;;;
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:郭;元斌;;;
 FN:郭元斌
 TEL;TYPE=CELL:18615276578
 TEL;TYPE=WORK;TYPE=FAX:95812 5622
 NOTE:原号码：13465317359  +86 15865254521 4000多 11年5000多 12年6000 同学多1000  <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;郭元斌;;;
+FN:郭元斌
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;海尔洗衣机安装;;;
+FN:海尔洗衣机安装
+TEL;TYPE=CELL:13206404904
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;韩姐;;;
+FN:韩姐
+TEL;TYPE=CELL:18764422638
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;郝电工;;;
+FN:郝电工
+TEL;TYPE=CELL:15106945209
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -556,10 +805,16 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-N:何;鑫;;;
+N:;贺军;;;
+FN:贺军
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;何鑫;;;
 FN:何鑫
 TEL;TYPE=WORK:4008129899 or 4007128899 - 8991091176
-NOTE:(4008129899 or 4007128899) + 8991091176   xin.he.sena Edison\, New Jersey\, USA +1732-548-9408 +1732-447-6157 www.senasystems.com  2005年11月（儿子） 2008年6月（女儿）  2001离开济南  中国通用号码的使用方法： 直接拨打 4007-087-996 or 4007-087-989 ，听到语音提示后输入对方的10位数BB号码 8996060906，按"#"号键结束。  Through this way\, you only need to pay the fee for you to access the local number 4007-087-996 and directly call my US cell phone. If for any case\, this way does not work. The following is my number list:  609-395-0280 (home from verizon) 609-454-0214 (IPPHONE) 732-447-6157 (CELL)  5000房费 67万300平方 罗远秋 华为，在家工作 博士毕业 NEC工作
+NOTE:(4008129899 or 4007128899) + 8991091176   xin.he.sena Edison\, New Jersey\, USA +1732-548-9408 +1732-447-6157 www.senasystems.com  2005年11月（儿子） 2008年6月（女儿）  2001离开济南  中国通用号码的使用方法： 直接拨打 4007-087-996 or 4007-087-989 ，听到语音提示后输入对方的10位数BB号码 8996060906，按"#"号键结束。  Through this way\, you only need to pay the fee for you to access the local number 4007-087-996 and directly call my US cell phone. If for any case\, this way does not work. The following is my number list:  609-395-0280 (home from verizon) 609-454-0214 (IPPHONE) 732-447-6157 (CELL)  5000房费 67万300平方 罗远秋 华为，在家工作 博士毕业 NEC工作\n我现在住在新泽西\,纽约\n离纽约市很近
 CATEGORIES:systemgroup:mycontacts
 X-WDJ-STARRED:0
 END:VCARD
@@ -617,11 +872,37 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;扈海波;;;
+FN:扈海波
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;扈海波;;;
+FN:扈海波
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;ieswkm;;;
+FN:ieswkm
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:贾;久龙;;;
 FN:贾久龙
 TEL;TYPE=CELL:+8613153158237
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;贾久龙;;;
+FN:贾久龙
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -633,6 +914,22 @@ TEL;TYPE=HOME:0635 2360182
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:同学
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;监控 小高;;;
+FN:监控 小高
+TEL;TYPE=CELL:18615256838
+TEL;TYPE=CELL:15066117557
+TEL;TYPE=CELL:18660817557
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;监控室 省局;;;
+FN:监控室 省局
+TEL;TYPE=CELL:15665733929
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -665,6 +962,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;冀国庆;;;
+FN:冀国庆
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:鞠;丁夫人;;;
 FN:鞠丁夫人
 TEL;TYPE=CELL:13864092285
@@ -685,6 +988,13 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;科苑北区刘房东;;;
+FN:科苑北区刘房东
+TEL;TYPE=CELL:15820011236
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:孔;令利;;;
 FN:孔令利
 TEL;TYPE=CELL:+8618653171182
@@ -695,12 +1005,25 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;老神仙;;;
+FN:老神仙
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:梁;成辉;;;
 FN:梁成辉
 TEL;TYPE=CELL:13863120237
 TEL;TYPE=WORK:17951 0631 5685847
 NOTE:创新创业基地  B座314  火炬路213号  一个很大的楼  住的地方是自由东方  你们要住4星这面的，还是标准低一点的  4星这面我们的协议价是220元每天，含早餐，条件还不错  google地图中一查就看到了  12路的话是在庆威站下  往回走一点  18.3 公里 86路  17.6 公里 12路  	公交   - 86路 - (美信金丰药店--东发园林小区) - 方向： 东发园林小区 出发： 火车站    18.0 公里  到达： 东涝台中学   	 	公交   - 12路 - (火(汽)车站--火炬大厦) - 方向： 火炬大厦 出发： 火(汽)车站    17.3 公里  到达： 张氏嘉禾服装   	       <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;梁成辉;;;
+FN:梁成辉
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -719,7 +1042,6 @@ N:李;承富;;;
 FN:李承富
 TEL;TYPE=CELL:+86 13793854479
 TEL;TYPE=HOME:0543 2611111
-TEL;TYPE=CELL:13506400912
 NOTE:签约电话银行，并增加约定帐户。 6227 0023 4918 1032 758  103 3862 1111 5994 1048  13465092933  鲁mcp299 中国人民保险   13034527256    <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
 X-WDJ-STARRED:0
@@ -855,6 +1177,26 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;林国春;;;
+FN:林国春
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;林国春;;;
+FN:林国春
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;林泉;;;
+FN:林泉
+TEL;TYPE=CELL:18668991290
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:李;鹏;;;
 FN:李鹏
 TEL;TYPE=CELL:13500631961
@@ -889,8 +1231,15 @@ N:刘;凤伟;;;
 FN:刘凤伟
 TEL;TYPE=CELL:18660105789
 ORG:泰祥 万豪
-NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>  13953117355 刘
+NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>  13953117355 刘\n66599309限购手续
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;刘国(门);;;
+FN:刘国(门)
+TEL;TYPE=CELL:15165005130
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -935,6 +1284,14 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;刘倩 ;;;
+FN:刘倩
+TEL;TYPE=CELL:13953140481
+TEL;TYPE=CELL:18654512211
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:刘;晓花;;;
 FN:刘晓花
 TEL;TYPE=CELL:15589970767
@@ -948,6 +1305,12 @@ URL;TYPE=HOME:www.kqyy.cn
 NOTE:86261625 段丽霞 洗牙  孙淑贞 牙套 86261633  86261641  刘晓花 15589970767 86261990 上班时间： 一二三  五六 2004年给母亲彻底洗牙 201211婚假
 CATEGORIES:医生
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;刘晓花;;;
+FN:刘晓花
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -976,6 +1339,13 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;李文峰;;;
+FN:李文峰
+TEL;TYPE=:18653107826
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:李;文丽;;;
 FN:李文丽
 TEL;TYPE=CELL:13561809829
@@ -1000,6 +1370,19 @@ PHOTO;ENCODING=B;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQEBAQIBAQECAgICA
 CATEGORIES:HTC Favorite
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:亲戚
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;李英婕;;;
+FN:李英婕
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;liyingjie71;;;
+FN:liyingjie71
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1045,6 +1428,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;卢闽;;;
+FN:卢闽
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:罗;四红;;;
 FN:罗四红
 TEL;TYPE=CELL:13907347668
@@ -1066,6 +1455,13 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;lyj_chs;;;
+FN:lyj_chs
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:马;连民;;;
 FN:马连民
 TEL;TYPE=CELL:18605313000
@@ -1077,6 +1473,42 @@ NOTE:帐号：		332700030655 原帐号：	16020 身份证：	370724731004391  �
 CATEGORIES:同学
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;马连民;;;
+FN:马连民
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;马球友;;;
+FN:马球友
+TEL;TYPE=CELL:15505310408
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;马赛克 冯小刚;;;
+FN:马赛克 冯小刚
+TEL;TYPE=CELL:15963116860
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;煤气 万豪;;;
+FN:煤气 万豪
+TEL;TYPE=CELL:053182664335
+TEL;TYPE=CELL:053182661355
+TEL;TYPE=HOME:82912319
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;门 刘国;;;
+FN:门 刘国
+TEL;TYPE=CELL:15964526489
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1095,6 +1527,20 @@ FN:牟劲松
 TEL;TYPE=CELL:13105200300
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;奶站站长;;;
+FN:奶站站长
+TEL;TYPE=CELL:13864169827
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;潘 球友;;;
+FN:潘 球友
+TEL;TYPE=CELL:18053245877
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1136,6 +1582,20 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;彭师傅;;;
+FN:彭师傅
+TEL;TYPE=CELL:13335165221
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;苹果客服;;;
+FN:苹果客服
+TEL;TYPE=CELL:4006272273
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:;普利思;;;
 FN:普利思
 TEL;TYPE=CELL:15666970670
@@ -1145,6 +1605,21 @@ ADR;TYPE=WORK:;;华阳路科苑小区南区37号南邻;;;;
 ORG:省监狱服务站 济南普涮思矿泉水有限公司 JINAN PLEASE MINERAL WATER CO.\, LTD.
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:个人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;钱包小助手;;;
+FN:钱包小助手
+TEL;TYPE=CELL:520007
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;乔;;;
+FN:乔
+TEL;TYPE=CELL:18763966381
+TEL;TYPE=HOME:13256710983
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1169,15 +1644,43 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;七里河火车票售票点;;;
+FN:七里河火车票售票点
+TEL;TYPE=CELL:88069179
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:秦;霄鹏;;;
 FN:秦霄鹏
 TEL;TYPE=CELL:13553167160
 TEL;TYPE=WORK:6955042 \,3045 3026
-TEL;TYPE=PAGER:9898 /6918888\,9111310
+TEL;TYPE=CELL:15589979930
 ADR;TYPE=WORK:;;;济南;山东;;中国
 ORG:环科院
 CATEGORIES:同学
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;秦霄鹏;;;
+FN:秦霄鹏
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;秦绪盛;;;
+FN:秦绪盛
+TEL;TYPE=CELL:18654513311
+ORG:福特济阳
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;齐志鹏;;;
+FN:齐志鹏
+TEL;TYPE=CELL:15269150980
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1218,12 +1721,32 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;山峰;;;
+FN:山峰
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;少年宫击剑;;;
+FN:少年宫击剑
+TEL;TYPE=CELL:053158619968
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:石;爱民;;;
 FN:石爱民
 TEL;TYPE=CELL:18605312271
 NOTE:15666960217
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:ICCS
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;石爱民;;;
+FN:石爱民
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1237,10 +1760,24 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;书成姐;;;
+FN:书成姐
+TEL;TYPE=CELL:13396251263
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:四;嫂;;;
 FN:四嫂
 TEL;TYPE=CELL:15954316089
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;sky;;;
+FN:sky
+TEL;TYPE=WORK:86137292
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1266,18 +1803,35 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;Steven(Cao Jian);;;
+FN:Steven(Cao Jian)
+PHOTO;ENCODING=B;TYPE=JPEG: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
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+X-WDJ-BIG-PHOTO:./5273.jpg
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:孙;合友;;;
 FN:孙合友
 TEL;TYPE=CELL:15990901999
 TEL;TYPE=HOME:0531 8953207 3655
-TEL;TYPE=WORK:0531 8018000 \, 6300
 TEL;TYPE=WORK:(531) 802-6754
+TEL;TYPE=WORK:2319
+TEL;TYPE=WORK:0531 8018000 \, 6300
 EMAIL;TYPE=sunheyou@263.net:sunheyou@263.net
 ADR;TYPE=WORK:;;花园路东首188#;济南;山东;250100;中国
 ORG:山东鲁能积成电子股份有限公司
 NOTE:帐号：043324 密码：671119
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;苏宁送洗衣机;;;
+FN:苏宁送洗衣机
+TEL;TYPE=CELL:13287725514
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1291,6 +1845,12 @@ ADR;TYPE=WORK:;;;聊城;山东;;中国
 ORG:聊城电业局
 CATEGORIES:同学
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;孙向明;;;
+FN:孙向明
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1317,12 +1877,27 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;孙玉军;;;
+FN:孙玉军
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:孙;玉秋;;;
 FN:孙玉秋
 TEL;TYPE=CELL:13188948982
 ORG:医院
 CATEGORIES:医生
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;泰达;;;
+FN:泰达
+TEL;TYPE=CELL:4008203087
+TEL;TYPE=WORK:02150580329
+NOTE:徐\nh12082100325\n893张
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1341,6 +1916,14 @@ FN:天才宝贝
 TEL;TYPE=WORK:053186137298
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王炳福;;;
+FN:王炳福
+TEL;TYPE=CELL:15853158745
+TEL;TYPE=HOME:13708930865
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1366,11 +1949,33 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;王传良;;;
+FN:王传良
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王传良;;;
+FN:王传良
+TEL;TYPE=:13709257739
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:王;建功;;;
 FN:王建功
 TEL;TYPE=CELL:18653188351
 TEL;TYPE=WORK:6715
+EMAIL;TYPE=WORK:wangjiangong@ieslab.com.cn
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王克明;;;
+FN:王克明
+TEL;TYPE=CELL:18605318462
+NOTE:4号楼611
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1392,6 +1997,31 @@ TEL;TYPE=HOME:82950185
 EMAIL;TYPE=ieslab@public.jn.sd.cn:ieslab@public.jn.sd.cn
 ORG:济南高新开发区积成电子系统实验所
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王鲁;;;
+FN:王鲁
+TEL;TYPE=CELL:18560215292
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王娜娜;;;
+FN:王娜娜
+TEL;TYPE=CELL:15562608307
+TEL;TYPE=HOME:15153160807
+NOTE:民生银行 6226201600295876\n傅帅
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王培一;;;
+FN:王培一
+TEL;TYPE=CELL:13006584236
+TEL;TYPE=HOME:2417
+ADR;TYPE=HOME:;;209;;;;
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1432,11 +2062,25 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;王小云;;;
+FN:王小云
+TEL;TYPE=:15903392980
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:王;永臣;;;
 FN:王永臣
 TEL;TYPE=CELL:13863149532
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;王震;;;
+FN:王震
+TEL;TYPE=CELL:18660431582
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1478,6 +2122,19 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;文博的辅导员;;;
+FN:文博的辅导员
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;文博的辅导员 刘燕;;;
+FN:文博的辅导员 刘燕
+TEL;TYPE=CELL:15064073936
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:吴;晓博;;;
 FN:吴晓博
 TEL;TYPE=CELL:13964061827
@@ -1502,6 +2159,12 @@ TEL;TYPE=WORK:8935256 (NKMZ)
 ORG:荣军医院内科门诊
 NOTE:二病区
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;夏靖;;;
+FN:夏靖
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1535,6 +2198,13 @@ ORG:济南高新开发区积成电子系统实验所
 NOTE:东单元3东
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;xin.he.sena;;;
+FN:xin.he.sena
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1590,12 +2260,33 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;徐悦;;;
+FN:徐悦
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;雅雕卫浴 王连美;;;
+FN:雅雕卫浴 王连美
+TEL;TYPE=CELL:13176682769
+NOTE:15053151590李
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:杨;大忠;;;
 FN:杨大忠
 TEL;TYPE=CELL:13563936536
 TEL;TYPE=HOME:0539 6212625
+TEL;TYPE=WORK:18669316569
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;杨大忠;;;
+FN:杨大忠
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1613,6 +2304,7 @@ N:杨;志强;;;
 FN:杨志强
 TEL;TYPE=CELL:13905414479
 TEL;TYPE=HOME:86358550
+TEL;TYPE=WORK:2309
 ADR;TYPE=HOME:;;18-3-201;;;;中国
 ADR;TYPE=WORK:;;和平路三号;济南;山东;;中国
 ORG:济南高新开发区积成电子系统实验所
@@ -1638,12 +2330,28 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;颜攀;;;
+FN:颜攀
+TEL;TYPE=CELL:13656411533
+ORG:品胜专卖店
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:严;中华;;;
 FN:严中华
 TEL;TYPE=CELL:15905311966
 TEL;TYPE=WORK:2300
 ORG:313
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;颜忠利;;;
+FN:颜忠利
+TEL;TYPE=CELL:13203120888
+TEL;TYPE=CELL:13873410888
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1666,6 +2374,13 @@ PHOTO;ENCODING=B;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQEBAQIBAQECAgICA
 CATEGORIES:HTC Favorite
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:亲戚
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;英语小帮手;;;
+FN:英语小帮手
+CATEGORIES:conghs_jc
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1693,12 +2408,33 @@ N:于;学军;;;
 FN:于学军
 TEL;TYPE=CELL:13964086680
 TEL;TYPE=HOME:(0531) 88526099
+TEL;TYPE=CELL:18560219233
 ADR;TYPE=WORK:;;益寿路  燕庆园  2号楼2单元 401;济南;山东;;中国
 ORG:积成电子
 NOTE:4100625311996099  帐号:61067986\,247317000\,A19700042387\,160403  0878 3205098 0878 3205285
 CATEGORIES:同学
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;于学军;;;
+FN:于学军
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张 热水器;;;
+FN:张 热水器
+TEL;TYPE=CELL:15953117447
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张 苏宁 热水器;;;
+FN:张 苏宁 热水器
+TEL;TYPE=CELL:15589955639
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1713,6 +2449,12 @@ ORG:济南高新开发区积成电子系统实验所
 NOTE:0534 2432660 德州华鲁电场 0534 2652661 德州电业局 711107 6034852 山东省局      <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张波;;;
+FN:张波
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1751,11 +2493,23 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;张东院;;;
+FN:张东院
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:张;国幸;;;
 FN:张国幸
 TEL;TYPE=CELL:13910792027
 NOTE:13506303569
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张国幸;;;
+FN:张国幸
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1791,6 +2545,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;张岷;;;
+FN:张岷
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:张;娜;;;
 FN:张娜
 TEL;TYPE=CELL:15615317209
@@ -1809,6 +2569,12 @@ TEL;TYPE=WORK:4006586888
 NOTE:15806625966 Su皓琳    13869007523    <HTCData><!-- Please do not modify --> <Facebook></Facebook> </HTCData>
 CATEGORIES:systemgroup:mycontacts
 CATEGORIES:亲戚
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张庆芳;;;
+FN:张庆芳
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1846,6 +2612,13 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;张仕鹏;;;
+FN:张仕鹏
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:张;伟东;;;
 FN:张伟东
 TEL;TYPE=CELL:18654615757
@@ -1863,6 +2636,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;张新宇;;;
+FN:张新宇
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:张;业谱;;;
 FN:张业谱
 TEL;TYPE=CELL:15606352926
@@ -1876,8 +2655,29 @@ VERSION:3.0
 N:张;永庆;;;
 FN:张永庆
 TEL;TYPE=CELL:15615516182
+EMAIL;TYPE=WORK:zhangyongqing@ieslab.com.cn
 NOTE:FN:杨丽华 TEL\;TYPE=CELL:13964052802
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张永庆;;;
+FN:张永庆
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;张志伟;;;
+FN:张志伟
+CATEGORIES:conghs_jc
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;赵;;;
+FN:赵
+TEL;TYPE=CELL:15098791219
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1921,6 +2721,19 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;赵明;;;
+FN:赵明
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;招商银行信用卡;;;
+FN:招商银行信用卡
+TEL;TYPE=CELL:4008885555
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:招商证券;Vip热线;;;
 FN:招商证券Vip热线
 TEL;TYPE=CELL:4008895565
@@ -1940,12 +2753,26 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;真奥核酸水机安装;;;
+FN:真奥核酸水机安装
+TEL;TYPE=CELL:18553103048
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:钟;瑞艳;;;
 FN:钟瑞艳
 TEL;TYPE=CELL:18954186797
 NOTE:<HTCData><!-- Please do not modify --> <Facebook></Facebook> <Favorite>actionid:CallMobile</Favorite> </HTCData>
 CATEGORIES:HTC Favorite
 CATEGORIES:systemgroup:mycontacts
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;中信银行;;;
+FN:中信银行
+TEL;TYPE=CELL:106980095558
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -2001,6 +2828,12 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;周文俊;;;
+FN:周文俊
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:周;兴路;;;
 FN:周兴路
 TEL;TYPE=CELL:13905311350
@@ -2020,10 +2853,15 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:;朱清卿;;;
+FN:朱清卿
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:朱;旭刚;;;
 FN:朱旭刚
 TEL;TYPE=CELL:15153110288
-TEL;TYPE=HOME:86690193
 CATEGORIES:systemgroup:mycontacts
 X-WDJ-STARRED:0
 END:VCARD
