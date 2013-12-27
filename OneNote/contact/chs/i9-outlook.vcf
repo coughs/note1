@@ -4,14 +4,16 @@ N:0605 刘;文;;;
 FN:0605 刘文
 TEL;TYPE=CELL:18769738350
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-N:;12-1005 刘;;;
+N:12-1005 刘;;;;
 FN:12-1005 刘
 TEL;TYPE=CELL:13854107998
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -20,6 +22,15 @@ N:1505 杨;;;;
 FN:1505 杨
 TEL;TYPE=CELL:13689562766
 CATEGORIES:我的联系人
+CATEGORIES:房子
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:1603 蒋;孝军;;;
+FN:1603 蒋孝军
+CATEGORIES:房子
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -27,7 +38,9 @@ VERSION:3.0
 N:1607 张;;;;
 FN:1607 张
 TEL;TYPE=CELL:13553161008
+NOTE:尼桑  鲁A708V6
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -35,6 +48,19 @@ VERSION:3.0
 N:1609 邓;;;;
 FN:1609 邓
 TEL;TYPE=CELL:13853100102
+TEL;TYPE=HOME:15169104886 (王)
+NOTE:王 15169104886
+CATEGORIES:我的联系人
+CATEGORIES:房子
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:1703;;;;
+FN:1703
+TEL;TYPE=CELL:13854907138
+NOTE:1703\nTEL\;TYPE=CELL:
+CATEGORIES:房子
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -45,15 +71,19 @@ FN:1705 潘
 TEL;TYPE=CELL:13905313447
 ORG:1705 1706
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-N:1805 伍;相国;;;
-FN:1805 伍相国
+N:1805 任;相国;;;
+FN:1805 任相国
 TEL;TYPE=CELL:13335159968
+TEL;TYPE=HOME:13395314010 (吴保华)
 ORG:11-1805
+NOTE:13395314010吴保华
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -85,7 +115,7 @@ TEL;TYPE=CELL:13366308390
 TEL;TYPE=HOME:17951 010 63104084
 TEL;TYPE=WORK:010-86427134（ｘＬＴ）
 ORG:积成电子
-NOTE:椿树园小区15号楼3单元901室\n4单元1202董\n\n赵老师联系（13366308390）\n门票激活网址：  http://www.teched.com.cn/2007/customer/login.asp < http://www.teched.com.cn/2007/customer/login.asp> \nBjZ@390\n\n  http://www.lxsk.com/ < http://www.lxsk.com/> \n\n  http://ditu.mapbar.com/ < http://ditu.mapbar.com/> \n\n1.	乘地铁2号线(西直门-西直门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至崇文门下车\,乘地铁5号线(天通苑北-宋家庄) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至天通苑下车\,步行至东三旗南站\,乘984路上行(四惠-高丽营) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至九华山庄下车	\n	距离:36.78公里  发送短信 ? <javascript:void(0)\;>   	\n2.	乘地铁2号线(西直门-西直门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至东直门下车\,乘地铁13号线(西直门-东直门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至立水桥下车\,步行至城铁立水桥站\,乘984路上行(四惠-高丽营) <  http://ditu.mapbar.com/localsearch/index.ht\,ml < http://ditu.mapbar.com/localsearch/index.html> > \,至九华山庄下车	\n	距离:42.95公里  发送短信 ? <javascript:void(0)\;>   	\n3.	乘地铁2号线(西直门-西直门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至安定门下车\,步行至安定门内\,乘104路快下行(北京站西-城铁柳芳站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至地坛西门下车\,乘803路快上行(吕营花园-兴寿站) < http://ditu.mapbar.com/localsearch/index.html> \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:40.24公里  发送短信 ? <javascript:void(0)\;>   	\n4.	乘地铁2号线(西直门-西直门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至安定门下车\,步行至地坛西门\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:39.74公里  发送短信 ? <javascript:void(0)\;>   	\n5. \n	乘地铁2号线(西直门-西直门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至复兴门下车\,乘地铁1号线(苹果园-四惠东) <  http://ditu.mapbar.com/localsearch/index.html <http://ditu.mapbar.com/localsearch/index.html> > \,至王府井下车\,步行至王府井路口北\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:41.35公里  发送短信 ? <javascript:void(0)\;>   	\n6.	步行至宣武门西\,乘9路下行(北京西站-金台路) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至前门东下车\,步行至前门\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:38.05公里  发送短信 ? <javascript:void(0)\;>   	\n7.	步行至宣武门东\,乘44路外环(新街口豁口-新街口豁口) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至前门东下车\,步行至前门\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:37.87公里  发送短信 ? <javascript:void(0)\;>   	\n8.	步行至宣武门西\,乘673路上行(北京西站-石各庄村) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.hQtml> > \,至前门东下车\,步行至前门\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:38.04公里  发送短信 ? <javascript:void(0)\;>   	\n9.	步行至宣武门东\,乘826路上行(颐和园-肖村桥西) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至珠市口南下车\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:39.6公里  发送短信 ? <javascript:void(0)\;>   	\n10.	步行至宣武门东\,乘特7路上行(世界公园公交总站-前门) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至前门下车\,乘803路快上行(吕营花园-兴寿站) <  http://ditu.mapbar.com/localsearch/index.html < http://ditu.mapbar.com/localsearch/index.html> > \,至大柳树环岛昌平下车\,步行至九华山庄	\n	距离:37.51公里  发送短信 ? <javascript:void(0)\;>   	\n这里有错误的信息？纠错 <  http://service.mapbar.com/feedback/useropen.jsp?url=http%3A//ditu.mapbar.com/localsearch/index.html%23ac%3Dbsr%26orig%3DMAPBSMXAQAHESNZWZBYEX%26origName%3D%25EQ5%25AE%25A3%25E6%25AD%25A6%25E9%2597%25A8%26origLatLon%3D%26dest%3DMAPBCMXAJACESIZRZBYIX%26destName% < http://service.mapbar.com/feedback/useropen.jsp?url=http%3A//ditu.mapbar.com/localsearch/index.html%23ac%3Dbsr%26orig%3DMAPBSMXAQAHESNZWZBYEX%26origName%3D%25E5%25AE%25A3%25E6%25AD%25A6%25E9%2597%25A8%26origLatLon%3D%26dest%3DMAPBCMXAJACESIZRZBYIX%26destName%> 3D%25E4%25B9%259D%25E5%258D%258E%25E5%25B1%25B1%25E5%25BA%2584%26destLatLon%3D%26city%3D%25E5%258C%2597%25E4%25BA%25AC%25E5%25B8%2582> 	\n\n\n车次链接 <javascript:__doPostBack(&apos\;dnn$ctr1011$ViewTwoStation$GridView1&apos\;\,&apos\;Sort$TrainNO&apos\;)> 	列车种类 <javascript:__doPostBack(&apos\;dnn$ctr1011$ViewTwoStation$GridView1&apos\;\,&apos\;Sort$Kind&apos\;)> 	始发车站 <javascript:__doPostBack(&apos\;dnn$ctr1011$ViewTwoStation$GridView1&apos\;\,&apos\;Sort$FIRSTST&apos\;)> 	终到车站 <javascript:__doPostBack(&apos\;dnn$ctr1011$ViewTwoStation$GridView1&apos\;\,&apos\;Sort$LASTST&apos\;)> 	北京开 <javascript:__doPostBack(&apos\;dnn$ctr1011$ViewTwoStation$GridView1&apos\;\,&apos\;Sort$StartStation&apos\;)> 	济南到 <javascript:__doPostBack(&apos\;dnn$ctr1011$ViewTwoStation$GridView1&apos\;\,&apos\;Sort$EndStation&apos\;\n\n[设备上的文本被删节。在设备上的这些项目的更改将覆盖 台式计算机 上的整个文本。]\n\n\n\n\n\n
+NOTE:椿树园小区15号楼3单元901室\n4单元1202董\n\n赵老师联系（13366308390）\n
 CATEGORIES:同事
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
@@ -133,6 +163,7 @@ N:陈;东强;;;
 FN:陈东强
 TEL;TYPE=WORK:13905313053
 CATEGORIES:我的联系人
+CATEGORIES:临清
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -148,6 +179,7 @@ EMAIL;TYPE=wlxx@wh.sdu.edu.cn:wlxx@wh.sdu.edu.cn
 ORG:山大威海分校电子系
 NOTE:\n\n0631 2680347(小灵通)\n\n\n\n\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -165,12 +197,31 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:厨房厨柜师傅;;;;
+FN:厨房厨柜师傅
+TEL;TYPE=CELL:15066686150
+CATEGORIES:房子
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:橱柜;;;;
+FN:橱柜
+TEL;TYPE=CELL:18853148427
+CATEGORIES:房子
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:春之声;;;;
 FN:春之声
 TEL;TYPE=CELL:053158585628
 TEL;TYPE=WORK:053158585628
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -182,6 +233,7 @@ TEL;TYPE=WORK:053186137296
 TEL;TYPE=WORK:053186137291
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -206,11 +258,12 @@ BEGIN:VCARD
 VERSION:3.0
 N:丛;海铭;;;
 FN:丛海铭
-TEL;TYPE=CELL:13863175111
 TEL;TYPE=HOME:0631 8980739
 TEL;TYPE=HOME:0631 8163789
 TEL;TYPE=WORK:0631 8474031 (神经科)
 TEL;TYPE=WORK:15550657511
+TEL;TYPE=CELL:13863175111
+TEL;TYPE=MAIN:18602539112
 EMAIL;TYPE=cohimi@sina.com.cn:cohimi@sina.com.cn
 EMAIL;TYPE=chmlwlcj@263.com:chmlwlcj@263.com
 ADR;TYPE=WORK:;;中心医院神经内科一病区新门诊楼七楼;文登市;山东省;250031;中国
@@ -229,7 +282,7 @@ TEL;TYPE=CELL:13602647290
 TEL;TYPE=HOME:0755 89330304
 TEL;TYPE=WORK:0755 86141595
 TEL;TYPE=PAGER:191 8901015
-NOTE:0755 83057092（原号码08-09）\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n
+NOTE:利亚德  华智控股\n0755 83057092（原号码08-09）\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n
 CATEGORIES:亲戚
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
@@ -240,7 +293,6 @@ N:丛;海山;;;
 FN:丛海山
 TEL;TYPE=CELL:18653188355
 TEL;TYPE=HOME:0531 88039310
-TEL;TYPE=HOME:13256759370
 TEL;TYPE=WORK:8 8247666-3646 (3227)
 TEL;TYPE=WORK:0531 88018000
 TEL;TYPE=CAR:061029281
@@ -278,10 +330,20 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:丛;济南;;;
+FN:丛济南
+TEL;TYPE=CELL:13280027670
+CATEGORIES:我的联系人
+CATEGORIES:个人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:丛;吉平;;;
 FN:丛吉平
 TEL;TYPE=CELL:18615541223
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -386,6 +448,7 @@ TEL;TYPE=CELL:13706400677
 EMAIL;TYPE=hbdmsy@163.com:hbdmsy@163.com
 ORG:翰渤大明实业
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -394,6 +457,7 @@ N:当当送获;;;;
 FN:当当送获
 TEL;TYPE=WORK:053186663721
 CATEGORIES:我的联系人
+CATEGORIES:关联生活
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -404,6 +468,7 @@ TEL;TYPE=CELL:13698629206
 TEL;TYPE=HOME:0531 82950120
 TEL;TYPE=WORK:96717120
 CATEGORIES:我的联系人
+CATEGORIES:医生
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -415,6 +480,7 @@ TEL;TYPE=HOME:8008582060
 TEL;TYPE=WORK:8008580950 (维修)
 NOTE:9DELL Latitude D620 服务编号:FSCR22X 快速服务代码:34366205769 Home版XP序列号:TJ6RG-2QC6K-6Q8RQ-FK2HD-Y94RD 00049-139-363-045\n8008580950 8008582060\nCnsdjc-dell@yahoo.com.cn\nChsLyj1212\n8008580950\n1G 533\n0592 8187663 冯冰\n	\n8008582222\n9\n0991\n王\n\n\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:关联生活
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -424,6 +490,7 @@ FN:丁兆显
 TEL;TYPE=CELL:15953152185
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -434,6 +501,7 @@ TEL;TYPE=CELL:13641182921
 X-AIM;TYPE=HOME:zmwyx1998@hotmail.com
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -442,6 +510,7 @@ N:段;化鹏;;;
 FN:段化鹏
 TEL;TYPE=CELL:15169054696
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -451,6 +520,7 @@ FN:段丽霞
 TEL;TYPE=CELL:13864114811
 NOTE:34567洗牙\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:医生
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -459,6 +529,7 @@ N:二嫂;;;;
 FN:二嫂
 TEL;TYPE=CELL:13854384522
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -480,6 +551,7 @@ N:冯;英;;;
 FN:冯英
 TEL;TYPE=CELL:13864108280
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -489,6 +561,7 @@ FN:傅涛
 TEL;TYPE=CELL:13706315987
 NOTE:威海热电集团\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -498,6 +571,7 @@ FN:付总
 TEL;TYPE=CELL:18668931615
 ORG:泽鑫装饰
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -505,6 +579,17 @@ VERSION:3.0
 N:葛;传英;;;
 FN:葛传英
 TEL;TYPE=CELL:13583194617
+CATEGORIES:我的联系人
+CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:格力 济南办事处;;;;
+FN:格力 济南办事处
+TEL;TYPE=CELL:18854121391
+TEL;TYPE=HOME:15866686698
+CATEGORIES:房子
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -516,6 +601,7 @@ TEL;TYPE=CELL:13605315087
 TEL;TYPE=WORK:(0531) 88018000-2495
 NOTE:408房间\n2358\n2204\n\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -540,6 +626,19 @@ TEL;TYPE=CELL:13065086566
 ORG:济南市人口和计划生育委员会
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n郭朝阳\n手机 13065086566
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:郭;静;;;
+FN:郭静
+TEL;TYPE=CELL:18615452785
+TEL;TYPE=WORK:053155681885
+ORG:中润 平安银行
+CATEGORIES:房子
+CATEGORIES:银行
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -550,6 +649,16 @@ TEL;TYPE=CELL:18615276578
 TEL;TYPE=WORK;TYPE=FAX:95812 5622
 NOTE:原号码：13465317359\n\n+86 15865254521\n4000多\n11年5000多\n12年6000\n同学多1000\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:韩姐;;;;
+FN:韩姐
+TEL;TYPE=CELL:18764422638
+CATEGORIES:家政服务
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -559,6 +668,7 @@ FN:贺军
 TEL;TYPE=CELL:15866888366
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -568,6 +678,7 @@ FN:何鑫
 TEL;TYPE=WORK:4008129899 or 4007128899 - 8991091176
 NOTE:\n(4008129899 or 4007128899) + 8991091176\n\n\nxin.he.sena\nEdison\, New Jersey\, USA\n+1732-548-9408\n+1732-447-6157\nwww.senasystems.com\n\n2005年11月（儿子）\n2008年6月（女儿）\n\n2001离开济南\n\n中国通用号码的使用方法：\n直接拨打 4007-087-996 or 4007-087-989 ，听到语音提示后输入对方的10位数BB号码 8996060906，按"#"号键结束。\n\nThrough this way\, you only need to pay the fee for you to access the local number 4007-087-996 and directly call my US cell phone. If for any case\, this way does not work. The following is my number list:\n\n609-395-0280 (home from verizon)\n609-454-0214 (IPPHONE)\n732-447-6157 (CELL)\n\n5000房费\n67万300平方\n罗远秋 华为，在家工作\n博士毕业\nNEC工作\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -577,6 +688,7 @@ FN:洪搂车票代售点
 TEL;TYPE=HOME:(0531) 82525828
 TEL;TYPE=WORK:(0531) 82525818
 CATEGORIES:我的联系人
+CATEGORIES:关联生活
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -600,6 +712,7 @@ FN:黄涛
 TEL;TYPE=CELL:13562052996
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -610,6 +723,7 @@ TEL;TYPE=CELL:13853157778
 TEL;TYPE=WORK:18653105067
 NOTE:6225885410352868\n刘辉\n赵琦\n京派\n (0531) 88622362
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -629,6 +743,7 @@ FN:贾久龙
 TEL;TYPE=CELL:+8613153158237
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -644,6 +759,17 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:监控 小高;;;;
+FN:监控 小高
+TEL;TYPE=CELL:15066117557
+TEL;TYPE=HOME:18660817557
+TEL;TYPE=WORK:18615256838
+CATEGORIES:房子
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:焦;安春;;;
 FN:焦安春
 TEL;TYPE=CELL:18953130320
@@ -651,6 +777,7 @@ TEL;TYPE=WORK:2399
 ORG:济南高新开发区积成电子系统实验所
 NOTE:宝鸡电业局\n\n招待所403房间		0917 3822001-403\n变电站电话		0917 7216960		7212073\n远动专责   杜育红	0917 3827353\n远动班	   林班长	0917 3822275 / 9\n远动机房		0917 3822288\n3822207\n\n13615313434\n\n0531 2943785\n\n\n+8618754156116\n\n13964096575\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -660,6 +787,16 @@ FN:积成电力内线
 TEL;TYPE=WORK:824 7666
 TEL;TYPE=WORK;TYPE=FAX:824 7027－7079
 CATEGORIES:我的联系人
+CATEGORIES:关联工作
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:积成;总机;;;
+FN:积成总机
+TEL;TYPE=WORK:0531 88018000
+CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -668,6 +805,7 @@ N:冀;国庆;;;
 FN:冀国庆
 TEL;TYPE=CELL:13688634370
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -676,6 +814,7 @@ N:鞠;丁夫人;;;
 FN:鞠丁夫人
 TEL;TYPE=CELL:13864092285
 CATEGORIES:我的联系人
+CATEGORIES:同学相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -686,8 +825,8 @@ TEL;TYPE=CELL:15054153000
 TEL;TYPE=WORK:0531 5926688 \, 3018/3010
 ORG:国际俱乐部
 NOTE:\n\n\n浦发\n6225211701159633\n中信\n6226902504236771\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n孙合友的内弟.\n10:00-13:00\n17:00-22:00\n\n\n康通，招行，5240115311218858\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
-CATEGORIES:关联人士
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -698,6 +837,7 @@ TEL;TYPE=CELL:+8618653171182
 ORG:齐鲁私立
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -708,6 +848,7 @@ TEL;TYPE=CELL:13863120237
 TEL;TYPE=WORK:17951 0631 5685847
 NOTE:创新创业基地\n B座314\n 火炬路213号\n 一个很大的楼\n 住的地方是自由东方\n 你们要住4星这面的，还是标准低一点的\n 4星这面我们的协议价是220元每天，含早餐，条件还不错\n google地图中一查就看到了\n 12路的话是在庆威站下\n 往回走一点\n\n18.3 公里 86路 \n17.6 公里 12路 \n	公交 <javascript:void(0)>  - 86路 - (美信金丰药店--东发园林小区) - 方向： 东发园林小区\n出发：\n火车站 \n\n\n18.0 公里\n\n到达：\n东涝台中学 \n\n	\n	公交 <javascript:void(0)>  - 12路 - (火(汽)车站--火炬大厦) - 方向： 火炬大厦\n出发：\n火(汽)车站 \n\n\n17.3 公里\n\n到达：\n张氏嘉禾服装 \n\n	\n\n\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -719,6 +860,7 @@ TEL;TYPE=WORK:15954316087
 TEL;TYPE=WORK:15954316089
 NOTE:\n\n\n老号13176425200\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -727,9 +869,9 @@ N:李;承富;;;
 FN:李承富
 TEL;TYPE=CELL:+86 13793854479
 TEL;TYPE=HOME:0543 2611111
-TEL;TYPE=WORK;TYPE=FAX:13506400912
 NOTE:签约电话银行，并增加约定帐户。\n6227 0023 4918 1032 758\n\n103 3862 1111 5994 1048\n\n13465092933\n\n鲁mcp299\n中国人民保险\n\n\n13034527256\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -741,8 +883,8 @@ TEL;TYPE=HOME:0475 8310732
 TEL;TYPE=WORK:13204758154
 ADR;TYPE=WORK:;;东郊四委十三组;通辽;;028000;中国
 NOTE:342次车\n济南始发：8:40 AM\n到达通辽：1:00 AM\n\n344次车\n\n17951 0475 8411140\n\n13034728373 13204750483\n\n13204758154\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n\n
-CATEGORIES:关联人士
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -755,6 +897,7 @@ TEL;TYPE=WORK:0543 2611212
 EMAIL;TYPE=zls1183@163169.net:zls1183@163169.net
 NOTE:0543 2323210书记家的电话。\n\n1964/05/04\n3\n17\n\n82年4月回家\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -764,6 +907,7 @@ FN:李成武
 TEL;TYPE=CELL:15965266329
 TEL;TYPE=HOME:17951 0543 2611364
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -776,6 +920,16 @@ TEL;TYPE=WORK:+8615169925148
 TEL;TYPE=WORK:17951 0543 2999411
 NOTE:奥美拉唑\n6228 4818 4001 4515 314\n\n13465066807\n\n\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:历城有线;;;;
+FN:历城有线
+TEL;TYPE=WORK:053188900110
+CATEGORIES:关联生活
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -787,6 +941,7 @@ TEL;TYPE=WORK:17951 0531 88018000 2112
 TEL;TYPE=PAGER:127 0090789
 NOTE:D620\n\n杨茂金：13064073690 \n1400\n\nQQ：551553913和我联系 <wangwang:SendIM?wangcj666&uid_t=wangcj666&suid=conghs> \nE-mail：womcn@163.com\n手机：13626411236\n378 492\n\n\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -795,6 +950,7 @@ N:李;华;;;
 FN:李华
 TEL;TYPE=CELL:18653117820
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -807,6 +963,7 @@ TEL;TYPE=WORK:18668927559
 ORG:汽修厂
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n18953118602\n\n88544544\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:车相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -816,6 +973,7 @@ FN:李梦迪
 TEL;TYPE=CELL:13964065221
 NOTE:18769646202  <HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n18206479322\n+8618766134924\n
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -825,6 +983,7 @@ FN:李明顺
 TEL;TYPE=CELL:15854336804
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -834,6 +993,7 @@ FN:李娜
 TEL;TYPE=CELL:+8615966601677
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n李娜15966601677\,滕月飞13589101106(现用)\,18678883781(11月以后启用)\n
 CATEGORIES:我的联系人
+CATEGORIES:积成宿舍
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -843,6 +1003,7 @@ FN:李乃衍
 TEL;TYPE=CELL:13969080880
 TEL;TYPE=WORK:3066
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -850,15 +1011,25 @@ VERSION:3.0
 N:林;国春;;;
 FN:林国春
 TEL;TYPE=CELL:18653188310
-TEL;TYPE=HOME:13853133750
 TEL;TYPE=WORK:05917715628
 TEL;TYPE=WORK;TYPE=FAX:0531 88012367
 TEL;TYPE=PAGER:0591 128 8764059
 ADR;TYPE=WORK:;;和平路三号;济南;山东;250014;中国
 ORG:积成福州办
-NOTE:厦门 500KV 变电站\n0592 7051813\n7050028\n103路电车济南宾馆下车向南一个路口\n\n13335191390\n\n\n95742\n6201\n6202\n5371\n\n龙岩\n95762\n3018\n5627\n\n\n\n\n\n
+NOTE:13853133750\n厦门 500KV 变电站\n0592 7051813\n7050028\n103路电车济南宾馆下车向南一个路口\n\n13335191390\n\n\n95742\n6201\n6202\n5371\n\n龙岩\n95762\n3018\n5627\n\n\n\n\n\n
 CATEGORIES:同事
 CATEGORIES:ICCS
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:林泉;;;;
+FN:林泉
+TEL;TYPE=CELL:18668991290
+TEL;TYPE=HOME:053158619968
+ORG:少年宫击剑教练
+CATEGORIES:儿女相关
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -868,6 +1039,7 @@ N:李;鹏;;;
 FN:李鹏
 TEL;TYPE=CELL:13500631961
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -876,6 +1048,7 @@ N:李;球友;;;
 FN:李球友
 TEL;TYPE=CELL:18353181100
 CATEGORIES:我的联系人
+CATEGORIES:健身
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -900,6 +1073,16 @@ TEL;TYPE=CELL:18660105789
 ORG:泰祥 万豪
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n13953117355\n刘\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:房子
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:刘国(门);;;;
+FN:刘国(门)
+TEL;TYPE=CELL:15165005130
+CATEGORIES:房子
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -910,6 +1093,7 @@ NICKNAME:经理
 TEL;TYPE=CELL:13854162707
 ORG:
 CATEGORIES:我的联系人
+CATEGORIES:积成宿舍
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -921,6 +1105,7 @@ TEL;TYPE=WORK:86792701
 ORG:建行淮阴支行
 NOTE:经七路支行 市行房贷部\n7905985\n徐新\n历城\n8904480\n\n2741451（自己家）\n\n6792701(小灵通)\n\n2729159（父母家）\n\n\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -929,6 +1114,7 @@ N:刘;雷;;;
 FN:刘雷
 TEL;TYPE=CELL:13563535229
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -940,6 +1126,7 @@ EMAIL;TYPE=liumin991199@163.com:liumin991199@163.com
 ORG:省中医
 NOTE:\n省中医手术室刘敏电话已改为---15165313800\n\n
 CATEGORIES:我的联系人
+CATEGORIES:积成宿舍
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -961,6 +1148,15 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:刘;燕;;;
+FN:刘燕
+TEL;TYPE=CELL:15064073936
+CATEGORIES:儿女相关
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:刘;忠志;;;
 FN:刘忠志
 TEL;TYPE=CELL:13455150138
@@ -973,6 +1169,16 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:李;文博辅导员;;;
+FN:李文博辅导员
+TEL;TYPE=CELL:15216447613
+NOTE:男生辅导员\n陈小娜：18765870853\n\n杨：+8618754122281\n刘倩：15966628830 刘倩\n18765870853
+CATEGORIES:我的联系人
+CATEGORIES:儿女相关
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:李;文峰;;;
 FN:李文峰
 TEL;TYPE=CELL:13505411126
@@ -981,6 +1187,7 @@ TEL;TYPE=WORK:2317
 ORG:积成电子系统实验所
 NOTE:水口：0591 2323243\n水口：0591 2323239\n\n\n\n\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -989,6 +1196,7 @@ N:李;文丽;;;
 FN:李文丽
 TEL;TYPE=CELL:13561809829
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1031,6 +1239,7 @@ TEL;TYPE=CELL:13561506418
 ORG:
 NOTE:13465092933\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1040,6 +1249,7 @@ FN:路兵
 TEL;TYPE=CELL:18264585507
 TEL;TYPE=WORK:15063558815
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1047,8 +1257,10 @@ VERSION:3.0
 N:卢;闽;;;
 FN:卢闽
 TEL;TYPE=CELL:13969008604
+TEL;TYPE=HOME:18653123803
 NOTE:济南市电力公司\n7408\n27楼\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n15505316995\n
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1070,6 +1282,7 @@ FN:卢山川
 TEL;TYPE=CELL:13370579987
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1089,11 +1302,25 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:煤气 万豪;;;;
+FN:煤气 万豪
+TEL;TYPE=CELL:12319
+TEL;TYPE=HOME:053182664335
+TEL;TYPE=WORK:053182661355
+TEL;TYPE=WORK;TYPE=FAX:82912319
+TEL;TYPE=OTHER:88150011
+CATEGORIES:房子
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:明;成荣;;;
 FN:明成荣
 TEL;TYPE=CELL:13308030406
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1102,6 +1329,16 @@ N:牟;劲松;;;
 FN:牟劲松
 TEL;TYPE=CELL:13105200300
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n
+CATEGORIES:我的联系人
+CATEGORIES:同学
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:奶站站长;;;;
+FN:奶站站长
+TEL;TYPE=CELL:13864169827
+CATEGORIES:儿女相关
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1119,6 +1356,7 @@ ADR;TYPE=WORK:;;;济南;山东;;中国
 ORG:万瑞达电脑公司
 NOTE:华润纺织\n高架路德州方向京福高速\n齐河出口下高唐三零捌国道四十公里收费后一公里左转向西六十公里到临清\n\n
 CATEGORIES:我的联系人
+CATEGORIES:临清
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1130,6 +1368,7 @@ TEL;TYPE=HOME:0635 2424289
 TEL;TYPE=WORK:0635 2423829
 ADR;TYPE=HOME:;;五单元二楼东;;;;中国
 CATEGORIES:我的联系人
+CATEGORIES:临清
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1139,6 +1378,16 @@ FN:裴亚枫
 TEL;TYPE=CELL:13176401055
 TEL;TYPE=WORK:13001708505
 ADR;TYPE=WORK:;;伟东新都一区11号楼2单元802;;;;
+CATEGORIES:我的联系人
+CATEGORIES:临清
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:苹果客服;;;;
+FN:苹果客服
+TEL;TYPE=WORK:4006272273
+CATEGORIES:通讯数码
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1152,6 +1401,23 @@ TEL;TYPE=WORK:87323879
 ADR;TYPE=WORK:;;华阳路科苑小区南区37号南邻;;;;
 ORG:省监狱服务站 济南普涮思矿泉水有限公司 JINAN PLEASE MINERAL WATER CO.\, LTD.
 CATEGORIES:个人
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;钱包小助手;;;
+FN:钱包小助手
+TEL;TYPE=CELL:520007
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:乔;继民;;;
+FN:乔继民
+TEL;TYPE=CELL:18763966381
+TEL;TYPE=HOME:13256710983 (老)
+CATEGORIES:房子
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1172,6 +1438,16 @@ FN:亓方文
 TEL;TYPE=CELL:15964372080
 TEL;TYPE=HOME:17951 0635 6903721
 NOTE:650\n5年\n2003\n交通局对面，国棉厂（华润）往西过两个路口。西数第二单元六楼西户\n\n\n\n\n\n
+CATEGORIES:我的联系人
+CATEGORIES:同学
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:七里河火车票售票点;;;;
+FN:七里河火车票售票点
+TEL;TYPE=CELL:88069179
+CATEGORIES:关联生活
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1199,6 +1475,7 @@ EMAIL;TYPE=ran@cmbchina.com:ran@cmbchina.com
 ORG:招商银行洪楼VIP经理
 NOTE:4391 8805 0072 6629\n\n\n4008885555\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:银行
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1210,6 +1487,7 @@ ADR;TYPE=HOME:;;天业翠苑 d座 东单元 401;;;;
 ORG:儿童医院
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1222,6 +1500,7 @@ ADR;TYPE=HOME:;;0601;;;;
 ORG:
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1230,6 +1509,7 @@ N:尚;光荣;;;
 FN:尚光荣
 TEL;TYPE=WORK:15315556761
 CATEGORIES:我的联系人
+CATEGORIES:临清
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1249,14 +1529,17 @@ FN:石钰
 TEL;TYPE=CELL:15069123188
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 N:书成姐;;;;
 FN:书成姐
-TEL;TYPE=WORK:15954584332
+TEL;TYPE=CELL:13396251263
+NOTE:15954584332
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1265,6 +1548,7 @@ N:四;嫂;;;
 FN:四嫂
 TEL;TYPE=CELL:15954316089
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1274,6 +1558,7 @@ FN:宋均全
 TEL;TYPE=CELL:13864188119
 NOTE:18354125786\n13864141211
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1286,6 +1571,7 @@ EMAIL;TYPE=sp3068@126.com:sp3068@126.com
 ORG:省计委培训中心
 NOTE:88919559\n刘文\n\n+8613010171500<FDMID>9830431</FDMID>\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1323,6 +1609,7 @@ N:孙;绪江;;;
 FN:孙绪江
 TEL;TYPE=WORK:13583112128
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1351,11 +1638,23 @@ X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+N:泰达;;;;
+FN:泰达
+TEL;TYPE=CELL:4008203087
+TEL;TYPE=HOME:02150580329
+NOTE:徐\nh12082100325\n893张
+CATEGORIES:关联生活
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 N:滕;月飞;;;
 FN:滕月飞
 TEL;TYPE=CELL:18678883781
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n李娜15966601677\,滕月飞13589101106(现用)\,18678883781(11月以后启用)\n
 CATEGORIES:我的联系人
+CATEGORIES:积成宿舍
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1364,6 +1663,18 @@ N:;天才宝贝;;;
 FN:天才宝贝
 TEL;TYPE=WORK:053186137298
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n
+CATEGORIES:我的联系人
+CATEGORIES:儿女相关
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:王炳福;;;;
+FN:王炳福
+TEL;TYPE=CELL:13708930865
+TEL;TYPE=HOME:15853158745
+ORG:散热器 铜铝 暖气片 金旗舰
+CATEGORIES:房子
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1375,8 +1686,8 @@ TEL;TYPE=CELL:15224356252
 TEL;TYPE=HOME:0635 2872152
 ADR;TYPE=WORK:;;路庄乡艾寨村;;;;
 NOTE:15192193234\n\n
-CATEGORIES:关联人士
 CATEGORIES:我的联系人
+CATEGORIES:临清
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1384,8 +1695,10 @@ VERSION:3.0
 N:王;传良;;;
 FN:王传良
 TEL;TYPE=CELL:18729554293
+TEL;TYPE=HOME:13708930865
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1394,6 +1707,16 @@ N:王;建功;;;
 FN:王建功
 TEL;TYPE=CELL:18653188351
 TEL;TYPE=WORK:6715
+CATEGORIES:我的联系人
+CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:王克明;;;;
+FN:王克明
+TEL;TYPE=CELL:18605318462
+CATEGORIES:同事
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1405,6 +1728,7 @@ TEL;TYPE=WORK:15505418811王
 ADR;TYPE=WORK:;;历山名郡写字楼;济南;山东;;
 ORG:城市人家
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1416,6 +1740,39 @@ TEL;TYPE=HOME:82950185
 EMAIL;TYPE=ieslab@public.jn.sd.cn:ieslab@public.jn.sd.cn
 ORG:济南高新开发区积成电子系统实验所
 CATEGORIES:我的联系人
+CATEGORIES:同事
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:王鲁;;;;
+FN:王鲁
+TEL;TYPE=CELL:18560215292
+CATEGORIES:同事
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:王娜娜;;;;
+FN:王娜娜
+TEL;TYPE=CELL:15562608307
+TEL;TYPE=HOME:15153160807
+ORG:科苑北区房东
+NOTE:民生银行 6226201600295876\n傅帅
+CATEGORIES:关联生活
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:王培一;;;;
+FN:王培一
+TEL;TYPE=CELL:13006584236
+TEL;TYPE=HOME:209
+TEL;TYPE=WORK:2417
+CATEGORIES:同事
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1425,6 +1782,7 @@ FN:王茜
 TEL;TYPE=CELL:13589118419
 TEL;TYPE=WORK:0531 88018000-3326
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1434,6 +1792,7 @@ FN:王求勇
 TEL;TYPE=CELL:13075353128
 TEL;TYPE=WORK:2462
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1442,6 +1801,7 @@ N:王;球友;;;
 FN:王球友
 TEL;TYPE=CELL:13853197798
 CATEGORIES:我的联系人
+CATEGORIES:健身
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1461,6 +1821,16 @@ FN:王永臣
 TEL;TYPE=CELL:13863149532
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:王震;;;;
+FN:王震
+TEL;TYPE=CELL:18660431582
+CATEGORIES:同事
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1471,6 +1841,7 @@ TEL;TYPE=CELL:13789817893
 ORG:大裕房地产
 NOTE:出纳小魏\n
 CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1489,15 +1860,7 @@ N:魏;勇;;;
 FN:魏勇
 TEL;TYPE=CELL:15552875888
 CATEGORIES:我的联系人
-X-WDJ-STARRED:0
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-N:;文博的辅导员;;;
-FN:文博的辅导员
-TEL;TYPE=CELL:18765870853
-NOTE:陈小娜：18765870853\n\n杨：+8618754122281\n
-CATEGORIES:我的联系人
+CATEGORIES:英杰联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1526,6 +1889,7 @@ TEL;TYPE=WORK:8935256 (NKMZ)
 ORG:荣军医院内科门诊
 NOTE:二病区\n\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1535,6 +1899,7 @@ FN:肖玲
 TEL;TYPE=CELL:15106919977
 NOTE:IP：218.57.145.117\n网关：218.57.145.113\n子网掩码：255.255.255.240\nDNS：202.102.152.3\n\n\n朱清卿 < http://172.20.10.9/addressbook/search.asp> 	3154	\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1543,6 +1908,7 @@ N:携程;;;;
 FN:携程
 TEL;TYPE=CELL:4008206666
 CATEGORIES:我的联系人
+CATEGORIES:商务
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1567,6 +1933,7 @@ N:徐;军;;;
 FN:徐军
 TEL;TYPE=CELL:13708907042
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1576,6 +1943,7 @@ FN:徐军2
 TEL;TYPE=CELL:18660745208
 NOTE:18678801382
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1610,6 +1978,7 @@ TEL;TYPE=HOME:15010677973
 ORG:中国银行信贷管理部风险管理处
 NOTE:移动电话：917-392-3483\n办公：646-855-5982\n住宅电话：1 973-533-0719\nYxu2@hotmail.com\n\n001 908 86213\n\n国棉北院东侧第一栋楼三单元三楼东\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1618,8 +1987,10 @@ N:杨;大忠;;;
 FN:杨大忠
 TEL;TYPE=CELL:13563936536
 TEL;TYPE=HOME:0539 6212625
+TEL;TYPE=WORK:18669316569
 NOTE:\n\n\n\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1629,6 +2000,7 @@ FN:杨皓卿妈妈
 TEL;TYPE=CELL:13325135155
 NOTE:鲁uw9555\n鲁U W7555\n
 CATEGORIES:我的联系人
+CATEGORIES:儿女相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1637,6 +2009,7 @@ N:杨;志强;;;
 FN:杨志强
 TEL;TYPE=CELL:13905414479
 TEL;TYPE=HOME:86358550
+TEL;TYPE=WORK:2309
 ADR;TYPE=HOME:;;18-3-201;;;;中国
 ADR;TYPE=WORK:;;和平路三号;济南;山东;;中国
 ORG:济南高新开发区积成电子系统实验所
@@ -1658,6 +2031,17 @@ ADR;TYPE=WORK:;;武汉市关山一路特1号光谷软件园C6栋5层;;;;
 ORG:达梦数据库有限公司
 URL;TYPE=HOMEPAGE:http://www.dameng.com
 CATEGORIES:我的联系人
+CATEGORIES:关联工作
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:颜;攀;;;
+FN:颜攀
+TEL;TYPE=CELL:13656411533
+ORG:辰耀数码
+CATEGORIES:通讯数码
+CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1668,6 +2052,7 @@ TEL;TYPE=CELL:15905311966
 TEL;TYPE=WORK:2300
 ORG:313
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1677,6 +2062,7 @@ FN:叶宁
 TEL;TYPE=CELL:13001723057
 ORG:泽鑫装饰
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1685,6 +2071,7 @@ N:;英杰手机;;;
 FN:英杰手机
 NICKNAME:老婆的小灵通
 TEL;TYPE=CELL:13065025597
+TEL;TYPE=WORK:18653183510
 NOTE:X002742\n
 PHOTO;ENCODING=B;TYPE=JPEG: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
 CATEGORIES:亲戚
@@ -1701,6 +2088,7 @@ ADR;TYPE=WORK:;;家政;;;;中国
 ORG:家政
 NOTE:2013年2月25日星期一 10:59:\n13153148656\n
 CATEGORIES:我的联系人
+CATEGORIES:家政服务
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1709,6 +2097,7 @@ N:于;文武;;;
 FN:于文武
 TEL;TYPE=CELL:13863927069
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1717,6 +2106,7 @@ N:于;学军;;;
 FN:于学军
 TEL;TYPE=CELL:13964086680
 TEL;TYPE=HOME:(0531) 88526099
+TEL;TYPE=WORK:18560219233
 ADR;TYPE=WORK:;;益寿路  燕庆园  2号楼2单元 401;济南;山东;;中国
 ORG:积成电子
 NOTE:4100625311996099\n\n帐号:61067986\,247317000\,A19700042387\,160403\n\n0878 3205098\n0878 3205285\n\n\n\n\n\n\n
@@ -1744,9 +2134,13 @@ VERSION:3.0
 N:;长城物业;;;
 FN:长城物业
 TEL;TYPE=CELL:4007818818
+TEL;TYPE=HOME:67898157
+TEL;TYPE=WORK:075561308266
+TEL;TYPE=WORK;TYPE=FAX:67898156
 ORG:长城物业
-NOTE:053167898156\n
+NOTE:053167898156\n暖气师傅\n张：\n15165084655\n王：\n15910097832\n
 CATEGORIES:我的联系人
+CATEGORIES:房子
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1770,6 +2164,7 @@ TEL;TYPE=CELL:13573186402
 TEL;TYPE=WORK:6159
 NOTE:宸宇kevin  工号00085
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1778,6 +2173,7 @@ N:张;凤泉;;;
 FN:张凤泉
 TEL;TYPE=CELL:13793098801
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1787,6 +2183,7 @@ FN:张国幸
 TEL;TYPE=CELL:13910792027
 NOTE:\n\n13506303569\n\n\n\n\n\n
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1795,6 +2192,7 @@ N:张;合宝;;;
 FN:张合宝
 TEL;TYPE=CELL:13791008439
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1805,6 +2203,16 @@ TEL;TYPE=CELL:13517192177
 TEL;TYPE=WORK:18502709775
 ADR;TYPE=WORK:;;;武汉达梦;;;
 CATEGORIES:我的联系人
+CATEGORIES:关联工作
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:张;济南;;;
+FN:张济南
+TEL;TYPE=CELL:15552579079
+CATEGORIES:我的联系人
+CATEGORIES:个人
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1827,6 +2235,16 @@ FN:张娜
 TEL;TYPE=CELL:15615317209
 ORG:中国联通
 NOTE:iPhone 4S火热发售，登录联通网上营业厅(www.10010.com)抢购！\n 尊敬的用户您好，您已成功开通中国联通WLAN上网服务，手机号码即上网账号。套餐名称：免费试用，资费：0元/分钟，生效时间：2012年01月20日，截止时间：2012年3月31日，服务密码：356097，如忘记密码可发送“CZWLAN”到10010进行重置。祝您使用愉快！
+CATEGORIES:我的联系人
+CATEGORIES:通讯数码
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:张娜联通供货;;;;
+FN:张娜联通供货
+TEL;TYPE=CELL:18605316888
+CATEGORIES:通讯数码
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1882,6 +2300,7 @@ FN:张伟东
 TEL;TYPE=CELL:18654615757
 NOTE:+8618654615757
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1890,6 +2309,7 @@ N:张;新宇;;;
 FN:张新宇
 TEL;TYPE=CELL:13560772035
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1900,6 +2320,7 @@ TEL;TYPE=CELL:15606352926
 TEL;TYPE=HOME:17951 0635 2416819
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同学
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1909,6 +2330,7 @@ FN:张永庆
 TEL;TYPE=CELL:15615516182
 NOTE:FN:杨丽华\nTEL\;TYPE=CELL:13964052802
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1918,6 +2340,7 @@ FN:赵晖
 TEL;TYPE=CELL:13205900170
 ORG:积成电子
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1939,14 +2362,43 @@ FN:赵静
 TEL;TYPE=CELL:13475960811
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n\n
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 N:赵;明;;;
 FN:赵明
-TEL;TYPE=CELL:13591808549
-NOTE:18906385085
+TEL;TYPE=CELL:18906385085
+NOTE:13591808549
+CATEGORIES:我的联系人
+CATEGORIES:亲戚
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:招商银行洪楼;;;;
+FN:招商银行洪楼
+TEL;TYPE=WORK:88119695
+CATEGORIES:银行
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:招商银行华龙;;;;
+FN:招商银行华龙
+TEL;TYPE=CELL:66896060
+CATEGORIES:银行
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:招商银行信用卡;;;;
+FN:招商银行信用卡
+TEL;TYPE=WORK:4008885555
+CATEGORIES:银行
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
@@ -1956,6 +2408,7 @@ N:招商证券;Vip热线;;;
 FN:招商证券Vip热线
 TEL;TYPE=CELL:4008895565
 CATEGORIES:我的联系人
+CATEGORIES:银行
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -1967,6 +2420,7 @@ TEL;TYPE=HOME:0543 3479030
 TEL;TYPE=WORK:0543 3462256
 NOTE:赵晓英\n13061067582\n\n\n\n\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:亲戚
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -2037,6 +2491,7 @@ FN:周兴路
 TEL;TYPE=CELL:13905311350
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>
 CATEGORIES:我的联系人
+CATEGORIES:同事相关
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -2047,6 +2502,7 @@ TEL;TYPE=CELL:15863199258
 TEL;TYPE=WORK:2450
 NOTE:<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCData>\n
 CATEGORIES:我的联系人
+CATEGORIES:同事
 X-WDJ-STARRED:0
 END:VCARD
 BEGIN:VCARD
@@ -2054,7 +2510,25 @@ VERSION:3.0
 N:朱;旭刚;;;
 FN:朱旭刚
 TEL;TYPE=CELL:15153110288
-TEL;TYPE=HOME:86690193
+CATEGORIES:我的联系人
+CATEGORIES:同事相关
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:子博妈妈;;;;
+FN:子博妈妈
+TEL;TYPE=CELL:13864156545
+CATEGORIES:儿女相关
+CATEGORIES:我的联系人
+X-WDJ-STARRED:0
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:紫萱妈妈;;;;
+FN:紫萱妈妈
+TEL;TYPE=CELL:18660152293
+CATEGORIES:儿女相关
 CATEGORIES:我的联系人
 X-WDJ-STARRED:0
 END:VCARD
